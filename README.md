@@ -41,4 +41,5 @@ The ERD (`docs/RaceDay_ERD.png`) contains six entities: Users, Events, Categorie
 
 [Insert screenshot ]
 
+<img width="1445" height="428" alt="workflows" src="https://github.com/user-attachments/assets/c2591af9-845d-4651-983d-c96f02202bcf" />
 
