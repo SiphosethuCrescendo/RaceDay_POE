@@ -14,7 +14,7 @@ Relationship Diagram, the API endpoint plan, and the SQL database script. No app
 - **Organiser** — creates, edits, and deletes events; manages event categories and routes; captures participant results; views all enrolments for their events.
 - **Participant** — registers an account; browses events; enters an event by selecting a category; views their own enrolments; tracks their personal result history.
 
-## Repository Structure
+## Repository 
 
 ```
 /docs
