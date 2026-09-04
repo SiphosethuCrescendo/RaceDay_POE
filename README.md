@@ -26,7 +26,7 @@ Relationship Diagram, the API endpoint plan, and the SQL database script. No app
 README.md
 ```
 
-## How to Run the 
+## How to Run the Sql Script
 
 1. Open SQL Server Management Studio (SSMS) on the cloud lab.
 2. Connect to your local SQL Server instance.
