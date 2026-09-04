@@ -1,4 +1,4 @@
-# RaceDay - Part 1: System Planning and Database
+# RaceDay - Part 1: System Planning and
 
 ## System Description
 RaceDay is a full-stack, API-driven event management platform built for South Africa's road running, 
