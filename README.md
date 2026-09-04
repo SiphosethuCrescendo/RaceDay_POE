@@ -1,6 +1,6 @@
 # RaceDay - Part 1: System Planning and
 Database!!! 
-## System Description
+## System Description xabanisa abantu
 RaceDay is a full-stack, API-driven event management platform built for South Africa's road running, 
 walking, and cycling community. It allows **Event Organisers** to create and manage events, categories, routes, 
 and results, while **Participants** can browse events, enter categories, track their personal result history,
