@@ -6,7 +6,7 @@ RaceDay is a comprehensive event management platform designed specifically for t
 
 ## 👥 User Roles
 
-### Organiser
+### 
 - Create, edit, and delete events
 - Manage event categories (distance, fee, capacity)
 - Capture and upload participant results
